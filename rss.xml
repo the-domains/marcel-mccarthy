@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Marcel McCarthy]]></title>
         <description><![CDATA[Marcel McCarthy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcel-mccarthy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:44:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 02:45:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcel-mccarthy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e8b5ba-0a18-46a0-86e4-b876015fd23c.JPG" alt="" title="">]]></description>
-            <link>undefined30bbad40-4ed4-47e0-ab7f-4d5f95a2b347/index.html</link>
+            <link>https://thegrid.ai/marcel-mccarthy/30bbad40-4ed4-47e0-ab7f-4d5f95a2b347/index.html</link>
             <guid isPermaLink="false">30bbad40-4ed4-47e0-ab7f-4d5f95a2b347</guid>
-            <pubDate>Fri, 19 Feb 2016 00:43:00 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 02:44:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
